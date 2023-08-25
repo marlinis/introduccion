@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     
     # Mis App
     'core',
+    'blog'
 ]
 
 MIDDLEWARE = [
